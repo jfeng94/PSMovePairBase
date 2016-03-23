@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\external\hidapi\windows\hid.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\psmove.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\psmove_calibration.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\psmove_orientation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\daemon\moved_client.c">
+      <Filter>Source Files\daemon</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\daemon\moved_monitor.c">
+      <Filter>Source Files\daemon</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\external\msvc-support\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\external\msvc-support\unistd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\platform\psmove_winsupport.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\math\psmove_math.c">
+      <Filter>Source Files\math</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\math\psmove_vector.c">
+      <Filter>Source Files\math</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\math\psmove_alignment.cpp">
+      <Filter>Source Files\math</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\math\psmove_quaternion.cpp">
+      <Filter>Source Files\math</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\psmove_calibration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\psmove_orientation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\psmove_private.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\include\psmove.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\include\psmove_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\daemon\moved_client.h">
+      <Filter>Header Files\daemon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\daemon\moved_monitor.h">
+      <Filter>Header Files\daemon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\daemon\psmove_moved_protocol.h">
+      <Filter>Header Files\daemon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\platform\psmove_winsupport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\math\psmove_math.h">
+      <Filter>Header Files\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\math\psmove_vector.h">
+      <Filter>Header Files\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\math\psmove_alignment.hpp">
+      <Filter>Header Files\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\math\psmove_glm_math.hpp">
+      <Filter>Header Files\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\math\psmove_quaternion.hpp">
+      <Filter>Header Files\math</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jerry\psmoveapi\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files\daemon">
+      <UniqueIdentifier>{F71CBECE-C3E8-3E1C-A76C-1F5918682882}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\math">
+      <UniqueIdentifier>{8876EDA2-22DD-3103-B1E2-FBB9E9BB5F72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\daemon">
+      <UniqueIdentifier>{523EB5C7-362E-3CDB-8C07-963BDDC8B7FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\math">
+      <UniqueIdentifier>{858167D7-6CF2-3C8B-8C2B-3563AA5B4233}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CD779F09-DE40-3F77-806D-BB9839AA72FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{366C88CD-8C95-35E3-83F0-6B812C6C5088}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\tracker\camera_control.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\tracker\psmove_tracker.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\tracker\tracker_helpers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\tracker\tracker_trace.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\tracker\psmove_fusion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\external\iniparser\dictionary.c">
+      <Filter>Source Files\iniparser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\external\iniparser\iniparser.c">
+      <Filter>Source Files\iniparser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\src\tracker\platform\camera_control_win32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\external\msvc-support\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\external\msvc-support\unistd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\external\PS3EYEDriver\src\ps3eye.cpp">
+      <Filter>Source Files\PS3EyeDriver</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Jerry\psmoveapi\external\PS3EYEDriver\src\ps3eye_capi.cpp">
+      <Filter>Source Files\PS3EyeDriver</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\tracker\camera_control.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\tracker\camera_control_private.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\tracker\psmove_tracker_private.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\tracker\tracker_helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\src\tracker\tracker_trace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\include\psmove_fusion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\include\psmove_tracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\external\iniparser\dictionary.h">
+      <Filter>Header Files\iniparser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\external\iniparser\iniparser.h">
+      <Filter>Header Files\iniparser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\external\PS3EYEDriver\src\ps3eye.h">
+      <Filter>Header Files\PS3EyeDriver</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jerry\psmoveapi\external\PS3EYEDriver\src\ps3eye_capi.h">
+      <Filter>Header Files\PS3EyeDriver</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jerry\psmoveapi\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files\PS3EyeDriver">
+      <UniqueIdentifier>{BCD04F23-59B9-3DFB-A34A-DE044AAD24E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\iniparser">
+      <UniqueIdentifier>{E28F1672-FCF0-3E55-BC48-D582D19CA931}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PS3EyeDriver">
+      <UniqueIdentifier>{9ED3F4BC-F836-3C56-B859-6B0EB71AF490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\iniparser">
+      <UniqueIdentifier>{B87B49D6-2FC4-3D10-AD32-E0AAFD63CB51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CD779F09-DE40-3F77-806D-BB9839AA72FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{366C88CD-8C95-35E3-83F0-6B812C6C5088}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
